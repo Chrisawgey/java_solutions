@@ -1,0 +1,45 @@
+going over else if statements: 
+
+if();
+elif();
+else:
+
+Sudo Code: is writing in order in english like terms and thne translating it into code
+Flow chart: Flow chart is symbols in the order you are going to do things
+
+Anything in a if conditon is a statement
+if all other condition are not true else will alwyas be true
+__________________________________________________________________________________________________________
+whatver is in the dimand shape of the diagram is going to be the condition the true or false:
+
+how to write the diagram out:
+
+if( whatver the question is )
+    true( contunue with what the next step is )
+    else ( would be th option if the true statement wasn't correct )
+-------------------------------------------------------------------------------------------------------------
+
+if you are assigning one equal sign if you are comparing two equal signs 
+= -> assigning
+== -> comparing
+
+example: if(quizScore == 10)      DO NOT END THE STATEMENT WITH ";"
+            System.out.println("the score is perfect");
+--------------------------------------------------------------------------------------------------------------
+If else statements using example prior to this one
+ example:
+
+    if(quizScore == 10)
+        System.out.println("the score is perfect);
+    else
+        System.out.println("No, its not");
+
+--------------------------------------------------------------------------------------------------------------
+
+difference between else and else if, else does not have a condition and else if
+
+you use {} when there is more than one statement
+
+____________________________________________________________--
+
+When combining two else if statements its called nesting
